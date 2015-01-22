@@ -40,5 +40,7 @@ console.log(lenny);
    users.push(braydon);
 console.log('All my users names are ');
 //Now loop through your users Array and console.log every users name. 
-console.log(users);
+for (var i = 0; i < user.length; i++){
+  console.log(users[i].name);
+};
   //code here
