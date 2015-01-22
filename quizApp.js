@@ -54,7 +54,7 @@ var Question = function(title, answersArray, rightAnswer, difficulty){
 
   //code here
 
-console.log('My users Array and my questions arrray are ...');
+console.log('My users Array and my questions array are ...');
 //Now loop console.log your users array and your questions array and verify that they're both holding the right data.
 
   //code here
